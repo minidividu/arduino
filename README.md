@@ -29,3 +29,27 @@ Ce projet est réalisé dans le cadre du module Communication Sans Fil en Licenc
 1. Cloner ce dépôt :
    ```bash
    git clone https://github.com/minidividu/maison-connectee-arduino.git
+
+
+  ##  Représentation visuelle du montage
+
+![Carte Arduino avec capteurs](./assets/schema.pdf)
+
+---
+
+##  Détails des connexions
+
+| Fil      | Couleur | Connecté à         | Fonction                   |
+|----------|---------|--------------------|----------------------------|
+| GND      | Noir    | GND de la carte    | Masse électrique           |
+| Signal   | Jaune   | A3 de l'Arduino    | Entrée analogique capteur  |
+| Alim     | Orange  | USB de la carte    | Alimentation 5V / données  |
+
+---
+
+##  Composants nécessaires
+
+- 1 × Arduino UNO
+- 1 × Capteur [PIR]
+- 3 × Fils Dupont (noir, jaune, orange)
+- 1 × Câble USB
