@@ -5,7 +5,7 @@ Ce projet est réalisé dans le cadre du module Communication Sans Fil en Licenc
 
 
 <p align="center">
-  <img src="DBLN.png" alt="Logo du projet" width="200"/>
+  <img src="logo.png" alt="Logo du projet" width="200"/>
 </p>
 
 ##  Matériel utilisé
