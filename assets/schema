@@ -19,6 +19,6 @@
 ##  Composants nécessaires
 
 - 1 × Arduino UNO
-- 1 × Capteur [Nom du capteur]
+- 1 × Capteur [PIR]
 - 3 × Fils Dupont (noir, jaune, orange)
 - 1 × Câble USB
