@@ -33,7 +33,7 @@ Ce projet est réalisé dans le cadre du module Communication Sans Fil en Licenc
 
   ##  Représentation visuelle du montage
 
-![Carte Arduino avec capteurs](./assets/schema.pdf)
+![Carte Arduino avec capteurs](./assets/schema.png)
 
 ---
 
