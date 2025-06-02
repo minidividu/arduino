@@ -7,11 +7,12 @@ Ce projet a pour objectif de créer une maison connectée utilisant une carte Ar
 
 ## 🔧 Matériel utilisé
 
-- Carte Arduino Nicla Vision / UCA Côte d’Azur v3.9
-- Capteur de température et d’humidité (ex: SHTC3)
-- Capteur de luminosité (ex: LTR-3P3A)
+- Carte Arduino UCA Côte d’Azur
+- Capteur de température et d’humidité SHTC3
+- Capteur de mouvement PIR
+- Capteur de luminosité LTR-303
 - Bandeau LED RGB
-- Câbles, alimentation, breadboard...
+- Câbles, alimentation, breadboard
 
 ## 🧠 Fonctionnalités
 
@@ -19,7 +20,6 @@ Ce projet a pour objectif de créer une maison connectée utilisant une carte Ar
 - 💡 Mesure de la luminosité
 - 🎨 Contrôle automatique ou manuel d’un ruban LED
 - 💾 Affichage des données sur le port série ou sur écran LCD (optionnel)
-- 📱 Contrôle possible via une interface web ou Bluetooth (à développer)
 
 ## 🚀 Démarrage
 
