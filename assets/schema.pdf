@@ -1,1 +1,24 @@
+#  Projet Arduino : Capteurs connectés
 
+##  Représentation visuelle du montage
+
+![Carte Arduino avec capteurs](./images/schéma.png)
+
+---
+
+##  Détails des connexions
+
+| Fil      | Couleur | Connecté à         | Fonction                   |
+|----------|---------|--------------------|----------------------------|
+| GND      | Noir    | GND de la carte    | Masse électrique           |
+| Signal   | Jaune   | A3 de l'Arduino    | Entrée analogique capteur  |
+| Alim     | Orange  | USB de la carte    | Alimentation 5V / données  |
+
+---
+
+##  Composants nécessaires
+
+- 1 × Arduino UNO
+- 1 × Capteur [Nom du capteur]
+- 3 × Fils Dupont (noir, jaune, orange)
+- 1 × Câble USB
