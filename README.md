@@ -5,7 +5,7 @@ maison connecté
 
 Ce projet a pour objectif de créer une maison connectée utilisant une carte Arduino, des capteurs et des LEDs pour surveiller et interagir avec l'environnement.
 
-## 🔧 Matériel utilisé
+##  Matériel utilisé
 
 - Carte Arduino UCA Côte d’Azur
 - Capteur de température et d’humidité SHTC3
@@ -14,14 +14,14 @@ Ce projet a pour objectif de créer une maison connectée utilisant une carte Ar
 - Bandeau LED RGB
 - Câbles, alimentation, breadboard
 
-## 🧠 Fonctionnalités
+##  Fonctionnalités
 
-- 🌡️ Lecture de la température et de l’humidité ambiantes
-- 💡 Mesure de la luminosité
-- 🎨 Contrôle automatique ou manuel d’un ruban LED
-- 💾 Affichage des données sur le port série ou sur écran LCD (optionnel)
+-  Lecture de la température et de l’humidité ambiantes
+-  Mesure de la luminosité
+-  Contrôle automatique ou manuel d’un ruban LED
+-  Affichage des données sur le port série ou sur écran LCD (optionnel)
 
-## 🚀 Démarrage
+## Démarrage
 
 1. Cloner ce dépôt :
    ```bash
