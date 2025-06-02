@@ -51,5 +51,5 @@ Ce projet est réalisé dans le cadre du module Communication Sans Fil en Licenc
 
 - 1 × Arduino UNO
 - 1 × Capteur [PIR]
-- 3 × Fils Dupont (noir, jaune, orange)
+- 3 × Fils (noir, jaune, orange)
 - 1 × Câble USB
