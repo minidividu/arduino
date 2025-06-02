@@ -1,24 +1,41 @@
-# Prerequisites
-*.d
-
-# Compiled Object files
-*.slo
-*.lo
+# === FICHIERS DE COMPILATION ARDUINO ===
+*.elf
+*.hex
+*.bin
+*.out
 *.o
-*.obj
+*.d
+*.a
+*.map
+*.eep
 
-# Precompiled Headers
-*.gch
-*.pch
+# === FICHIERS TEMPORAIRES D'ÉDITEURS ===
+*.swp
+*.bak
+*.tmp
+*.log
+*.DS_Store
+*.orig
+*.sublime-workspace
+*.sublime-project
+.vscode/
+.idea/
 
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
+# === DOSSIERS TEMPORAIRES DE COMPILATION ===
+build/
+.pio/
+.arduino/
 
-# Fortran module files
-*.mod
-*.smod
+# === PLATFORMIO ===
+.pioenvs/
+.piolibdeps/
+.clang_complete
+.gcc-flags.json
+
+# === PYTHON / AUTRES ===
+*.pyc
+__pycache__/
+Thumbs.db
 
 # Compiled Static libraries
 *.lai
