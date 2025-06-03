@@ -10,7 +10,9 @@ Une fois tous les packets installer, il suffit d'entrer la commande : node-red e
 
 Vous allez atterrir sur l'interface de node-red
 
-"Image de l'interface"
+<p align="center">
+  <img src="assets/capture_node_red/interface_node_red.png" alt="Interface node red" width="200"/>
+</p>
 
 Afin de pouvoir récupérer les données envoyer à TTN nous avons utilisé un noeud MQTT.
 MQTT est un protocole de messagerie publication-abonnement basé sur le protocole TCP/IP. Il est l'un des protocoles clés dans le déploiement de l'internet des objets.
